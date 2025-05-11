@@ -52,6 +52,20 @@ The GUI was developed using **Java Swing** and ties together all the backend log
 
 The GUI is event-driven and promotes separation of concerns. It acts as a **client** that invokes commands and delegates order processing to the backend logic.
 
+Pictures Demonstrating GUI:
+
+
+<img width="640" alt="Screenshot 2025-05-11 at 4 15 21 PM" src="https://github.com/user-attachments/assets/5a056bce-e075-40d0-b39d-24bbab9f07d0" />
+
+
+<img width="613" alt="Screenshot 2025-05-11 at 4 15 58 PM" src="https://github.com/user-attachments/assets/e7da54ec-97e4-4e8f-9efe-f872d764e0cc" />
+
+
+<img width="645" alt="Screenshot 2025-05-11 at 4 16 41 PM" src="https://github.com/user-attachments/assets/71b47804-861e-418d-9a54-6fe58485c210" />
+
+
+<img width="649" alt="Screenshot 2025-05-11 at 4 17 44 PM" src="https://github.com/user-attachments/assets/e11825df-0e1f-4a42-adcc-d6877f79ecbb" />
+
 
 
 ## 🛠️ How to Run
@@ -82,6 +96,8 @@ All the following can be found in the `docs/` folder:
 | **Joey Myers**     | myersnj@iu.edu      |
 | **Sindhur Bansal** | sindbans@iu.edu     |
 | **Dylan Drotts**   | ddrotts@iu.edu      |
+
+
 
 
 
