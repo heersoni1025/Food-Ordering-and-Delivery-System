@@ -54,11 +54,10 @@ The GUI is event-driven and promotes separation of concerns. It acts as a **clie
 
 Pictures Demonstrating GUI:
 
+<img width="616" alt="Screenshot 2025-05-11 at 4 18 59 PM" src="https://github.com/user-attachments/assets/7aae7cf2-81b1-435d-b906-4bc9b44940d3" />
 
-<img width="640" alt="Screenshot 2025-05-11 at 4 15 21 PM" src="https://github.com/user-attachments/assets/5a056bce-e075-40d0-b39d-24bbab9f07d0" />
 
-
-<img width="613" alt="Screenshot 2025-05-11 at 4 15 58 PM" src="https://github.com/user-attachments/assets/e7da54ec-97e4-4e8f-9efe-f872d764e0cc" />
+<img width="649" alt="Screenshot 2025-05-11 at 4 19 47 PM" src="https://github.com/user-attachments/assets/9b1b8ed0-0625-4a47-90f8-845751c8a4fc" />
 
 
 <img width="645" alt="Screenshot 2025-05-11 at 4 16 41 PM" src="https://github.com/user-attachments/assets/71b47804-861e-418d-9a54-6fe58485c210" />
